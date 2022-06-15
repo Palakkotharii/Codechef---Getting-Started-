@@ -1,2 +1,11 @@
 # Codechef  Getting-Started-
-This Contains the All the codes with 0 run time ... Explaination of Getting Started Coding Compitition.
+
+![Code Chef Logo](https://www.codechef.com/sites/all/themes/abessive/logo.png)
+
+##  Description
+
+👉This repository contains my solutions to the problems which I have tried in C++ with Explaination.
+
+👉There may be many ways to approach the same given problem so feel free explore.
+
+👉This Contains the All the codes with 0 run time .
